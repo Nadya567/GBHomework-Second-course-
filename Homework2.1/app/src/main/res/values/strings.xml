@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework2.1</string>
+    <string name="bad">Bad</string>
+    <string name="good">Good</string>
+    <string name="hello">Hello!</string>
+    <string name="click_here">Click here!</string>
+    <string name="tick_if_you_are_in_good_mood">Tick if you are in good mood :)</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
